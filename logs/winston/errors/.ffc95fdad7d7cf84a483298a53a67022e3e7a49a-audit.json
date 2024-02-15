@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/mdabdul/Projects/ecommerce-be/logs/winston/errors/.ffc95fdad7d7cf84a483298a53a67022e3e7a49a-audit.json",
+    "files": [
+        {
+            "date": 1707931076737,
+            "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/errors/phu-2024-14-02-23-error.log",
+            "hash": "171c1d3fc9173f0fe5d5e335c70d180450ae5785a3092ed4c25086aa02265871"
+        },
+        {
+            "date": 1707945156426,
+            "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/errors/phu-2024-15-02-03-error.log",
+            "hash": "fb9686ce9ae1703e04df797275394213d9258c6d989413e437feb06ef2762651"
+        },
+        {
+            "date": 1707993354640,
+            "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/errors/phu-2024-15-02-16-error.log",
+            "hash": "c0f256a1b9f3cfe28d3ef2396edaa6b06e3fa4b3948e67760d6e33558830a4cf"
+        },
+        {
+            "date": 1708003465410,
+            "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/errors/phu-2024-15-02-19-error.log",
+            "hash": "dcc61c1aaaa8d66fd7bcbb1afebe8385aeee66a7871efbc89fa7a4e02e2f8ab3"
+        }
+    ],
+    "hashType": "sha256"
+}

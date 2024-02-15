@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/mdabdul/Projects/ecommerce-be/logs/winston/successes/.db23ac80c1a62d0d1270b21c4d4be83948446ae2-audit.json",
+    "files": [
+        {
+            "date": 1707931076734,
+            "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/successes/TT-2024-14-02-23-success.log",
+            "hash": "1efd2b80e27c31a536a39b244b7173b65f2c973e149db53aa0e8cc21b119dd1c"
+        },
+        {
+            "date": 1707945156420,
+            "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/successes/TT-2024-15-02-03-success.log",
+            "hash": "24c15fec17c8a6b35ca9aa224b77f9b2d7932cb28d36c0206bcf90907fdccf56"
+        },
+        {
+            "date": 1707993354581,
+            "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/successes/TT-2024-15-02-16-success.log",
+            "hash": "da1e44b184a8e67b3a79ed4d9e938943f8d1e3b77cab9403888b80424d20f3fd"
+        },
+        {
+            "date": 1708003460568,
+            "name": "/home/mdabdul/Projects/ecommerce-be/logs/winston/successes/TT-2024-15-02-19-success.log",
+            "hash": "9d74370332d5881efabe6683e86eae9b06b263df1afef0ee5bbb1f1d53b3569a"
+        }
+    ],
+    "hashType": "sha256"
+}
